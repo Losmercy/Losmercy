@@ -58,10 +58,13 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Certifications
 <div>
-<a href="https://www.credly.com/badges/d6ce5d4d-f713-4030-8edf-3412f14eafbb/print" target="_blank"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/></a>
-<a href="https://www.credly.com/badges/bdf9fbcc-517b-4a42-acd1-282ec1f559ae/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/244c8f3a-4010-4a76-98f8-35cb521f1eed/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" />
-</a>
+    <a href="https://learn.microsoft.com/en-us/users/olusolaoyeniran-1658/credentials/164a25f6a744f581?ref=https%3A%2F%2Fwww.linkedin.com%2Fhttps://www.credly.com/badges/bdf9fbcc-517b-4a42-acd1-282ec1f559ae/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/bdf9fbcc-517b-4a42-acd1-282ec1f559ae/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/d6ce5d4d-f713-4030-8edf-3412f14eafbb/print" target="_blank"><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /></a>
+    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_4cYi9nEYyYSeHBqJS_1751704600324_completion_certificate.pdf" target="_blank"><img src="https://img.shields.io/badge/-Forage%20Certificate-6f42c1?style=for-the-badge&logo=forage&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/4fff3fc4-3486-4dc6-b94b-5160010a67c4/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Networking%20Basics-1BA0E2?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/244c8f3a-4010-4a76-98f8-35cb521f1eed/linked_in_profile" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Introduction%20to%20Cybersecurity-1572B6?style=for-the-badge&logo=Cisco&logoColor=white" /></a>
+
 
 </div>
 
