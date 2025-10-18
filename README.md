@@ -14,7 +14,8 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Email phishing simulation and detection analysis| <a href="https://github.com/Losmercy/Detection-Lab/tree/main">Detection Lab|
+| Email phishing simulation and detection analysis| <a href="https://github.com/Losmercy/Detection-Lab/tree/main">Email Lab</a>|
+| Malware Detection - YARA                      | <a href="https://github.com/Losmercy/Malware_Detection.git">Malware Detection</a>|
 | SIEM Implementation and Log Analysis          | Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -71,4 +72,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/Losmercy/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/Losmercy/Malware_Detection.git">Malware Detection</a>
 - SOC Automation Project
