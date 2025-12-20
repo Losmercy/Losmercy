@@ -14,11 +14,11 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Alert Investigation                      | <a href="https://www.notion.so/Alert-Investigation-2cfa8461013e800a8362ccb65482aeed?source=copy_link">Investgation Report</a>|
+| Security Incident Investigation          | <a href="https://www.notion.so/Security-Incident-Investigation-2cfa8461013e8047ab40e52288333863?source=copy_link">Investigation Report</a>|
+| Email Investigation | <a href="https://www.notion.so/Email-Analysis-2cfa8461013e800d994ac29d620434f3?source=copy_link">Analysis Report</a>|
 | Email phishing simulation and detection analysis| <a href="https://github.com/Losmercy/Detection-Lab/tree/main">Email Lab - Cloud </a>|
 | Malware Detection - YARA                      | <a href="https://github.com/Losmercy/Malware_Detection.git">Malware Detection</a>|
-| Alert Investigation                      | <a href="https://www.notion.so/Alert-Investigation-2cfa8461013e800a8362ccb65482aeed?source=copy_link">Investgation Report</a>|
-| Email Investigation | <a href="https://www.notion.so/Email-Analysis-2cfa8461013e800d994ac29d620434f3?source=copy_link">Analysis Report</a>|
-| SIEM Implementation and Log Analysis          | Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
