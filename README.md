@@ -16,6 +16,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | Email phishing simulation and detection analysis| <a href="https://github.com/Losmercy/Detection-Lab/tree/main">Email Lab - Cloud </a>|
 | Malware Detection - YARA                      | <a href="https://github.com/Losmercy/Malware_Detection.git">Malware Detection</a>|
+| Alert Investigation                      | <a href="https://www.notion.so/Alert-Investigation-2cfa8461013e800a8362ccb65482aeed?source=copy_link">Reports</a>|
+| Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
